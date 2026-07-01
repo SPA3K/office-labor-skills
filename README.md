@@ -1,4 +1,4 @@
-# 牛马 Skills
+# liukai23 Skills
 
 Claude Code 跨设备 skills 同步仓库。包含代码撰写、行业调研、报告撰写、PPT 生成、可视化图素生成等能力。
 
